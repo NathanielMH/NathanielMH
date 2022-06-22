@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanielMH, a student in CFIS UPC, studying Mathematics and Data science.
 - 👀 I’m interested in Machine learning, algorithms and mathematics.
-- 🌱 I’m currently learning OOP, Graph theory and expanding my CS knowledge.
+- 🌱 I’m currently learning about ML, RL and DL frameworks, mainly Tensorflow, as well as cryptography and expanding my overall CS knowledge.
 - 📫 How to reach me: nathanielmitrani@gmail.com :)
 
 <!---
